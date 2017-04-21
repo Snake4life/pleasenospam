@@ -48,7 +48,7 @@
     "thinky": "^2.1.12"
   },
   "devDependencies": {
-    "babel-eslint": "^7.1.0",
+    "babel-eslint": "^7.2.3",
     "eslint": "^3.4.0",
     "jade-lint": "^2.0.0",
     "nodemon": "^1.7.2"
